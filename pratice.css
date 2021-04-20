@@ -1,0 +1,14 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+.txt{
+    text-align: center;
+}
+.img-thumbnail{
+    background-repeat: repeat;
+    display: inline;
+}
+.foot{
+    text-align: center;
+}
